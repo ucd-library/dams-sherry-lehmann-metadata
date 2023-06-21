@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1008232",
+    "http://schema.org/name": "Manuscripts--Catalogs"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175887",
+    "http://schema.org/name": "Wine--Marketing"
+  }
+]

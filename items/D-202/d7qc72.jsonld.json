@@ -1,0 +1,49 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:PublicationIssue",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175887"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1008232"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d7qc72.pdf"
+  },
+  "schema:creator": "Sherry-Lehmann Inc.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1970"
+  },
+  "schema:identifier": [
+    "ark:/87287/d7qc72",
+    "Roy Brady Collection; D-202, Box:5, Folder:12"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/d7qc72-000.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xk8hg8/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "paper",
+  "schema:name": "WIne List 1970",
+  "schema:publisher": "Sherry-Lehmann Inc."
+}

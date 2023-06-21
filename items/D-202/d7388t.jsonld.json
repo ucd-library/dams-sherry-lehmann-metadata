@@ -1,0 +1,49 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:PublicationIssue",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175887"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1008232"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d7388t.pdf"
+  },
+  "schema:creator": "Sherry Wine & Spirits Co.,Inc.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1938"
+  },
+  "schema:identifier": [
+    "ark:/87287/d7388t",
+    "Roy Brady Collection; D-202, Box:5, Folder:9"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/d7388t-000.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xk8hg8/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "paper",
+  "schema:name": "Catalogue of Wines and Spirits 1938",
+  "schema:publisher": "Sherry Wine & Spirits Co.,Inc."
+}

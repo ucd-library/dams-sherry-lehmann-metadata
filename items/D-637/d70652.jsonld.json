@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:PublicationIssue",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1008232"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175887"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d70652.pdf"
+  },
+  "schema:creator": "Sherry-Lehmann Wine & Spirits Co.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2016"
+  },
+  "schema:identifier": [
+    "ark:/87287/d70652",
+    "Sherry-Lehmann Wine and Spirits Company Records; D-637, Box:1, Folder:4"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/d70652-001.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8pc37z3"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": {
+    "@language": "en",
+    "@value": "Winter 2016: Sherry-Lehmann Wine & Spirits Merchants Since 1934"
+  },
+  "schema:publisher": "Sherry-Lehmann Wine & Spirits Co."
+}

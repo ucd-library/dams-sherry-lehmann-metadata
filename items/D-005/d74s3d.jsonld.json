@@ -1,0 +1,49 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "ark:/87287/d74s3d",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:PublicationIssue",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1175887"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1008232"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/d74s3d.pdf"
+  },
+  "schema:creator": "Sherry-Lehmann Inc.",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1978"
+  },
+  "schema:identifier": [
+    "Arnold A. Bayard Collection; D-005, Box:2, Folder:7",
+    "ark:/87287/d74s3d"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/d74s3d-000.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8z039wq/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:material": "paper",
+  "schema:name": "Great Summer Savings June 1978",
+  "schema:publisher": "Sherry-Lehmann Inc."
+}

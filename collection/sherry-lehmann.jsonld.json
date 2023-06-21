@@ -1,0 +1,52 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:labelService": {
+    "@id": "@base:/labels"
+  },
+  "schema:identifier" : "ark:/13030/c8pc37z3",
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1008232"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175887"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2018"
+  },
+  "schema:description": "This collection includes over four-hundred catalogs drawn primarily from the famed wine and liquor distributor, Sherry-Lehmann. The catalogs date from the late 1930s to 2017, with an emphasis on the late 1940s through the 1970s. These beautifully illustrated brochures list prices from thousands of now rare bottles of wine, helping to chart America’s appreciation for wine from France, Spain, Italy, and beyond. They also provide a view into changing industry regulations and economics. The catalogs digitized here come from the [Sherry Lehmann] (https://oac.cdlib.org/findaid/ark:/13030/c8pc37z3/), [Roy Brady] (https://oac.cdlib.org/findaid/ark:/13030/c8xk8hg8/) and [Arnold A. Bayard] (https://oac.cdlib.org/findaid/ark:/13030/c8z039wq/) collections of materials related to wine appreciation, wine collecting, and the wine industry held by UC Davis Library’s Archives and Special Collections.",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87287/d7mm2n/media/images/d7mm2n-001.jpg"
+  },
+  "schema:keywords": [
+    "Wine Catalogs",
+    "1943/1967",
+    "Manuscripts--Catalogs",
+    "Wine--Marketing"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Sherry Lehmann Wine Catalogs",
+  "schema:publisher": [
+    "University of California, Davis. General Library. Dept. of Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}

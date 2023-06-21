@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "schema:description": "Collection includes wine labels, buyers' guides, bibliographies, directories, wine lists, menus, antiquarian booksellers' catalogs. It consists mostly of wine catalogs, some of which date back to 1835, and wine labels (over 50,000) with vintages back to 1790. It also includes notes on wines, and the people and events surrounding the wine industry.",
+  "schema:identifier": "Roy Brady Collection; D202",
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8xk8hg8/"
+  },
+  "schema:name": [
+    "Arnold A. Bayard Collection",
+    "Roy Brady Collection"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "schema:description": "Wine and spirits sales catalogs produced by New York City-based retailer Sherry-Lehmann Wine & Spirits, Inc.",
+  "schema:identifier": "Sherry-Lehmann Wine and Spirits Company Records; D-637",
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8pc37z3"
+  },
+  "schema:name": "Sherry-Lehmann Wine and Spirits Company Records"
+}
