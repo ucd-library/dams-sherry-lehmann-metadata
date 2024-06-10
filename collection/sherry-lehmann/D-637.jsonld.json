@@ -10,7 +10,7 @@
   },
   "@id": "",
   "schema:description": "Wine and spirits sales catalogs produced by New York City-based retailer Sherry-Lehmann Wine & Spirits, Inc.",
-  "schema:identifier": "Sherry-Lehmann Wine and Spirits Company Records; D-637",
+  "schema:identifier": "D-637",
   "schema:isPartOf": {
     "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8pc37z3"
   },
