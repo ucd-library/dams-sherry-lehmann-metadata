@@ -15,5 +15,5 @@
   "ucdlib:textIndexable": true,
   "schema:position": "008",
   "ebucore:filename": "d7c01w-008.txt",
-  "ebucore:hasMimeType": "video/x-sgi-movie"
+  "ebucore:hasMimeType": "text/plain"
 }
