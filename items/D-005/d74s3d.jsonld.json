@@ -8,7 +8,7 @@
     "ucdlib": "http://digital.ucdavis.edu/schema#",
     "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
   },
-  "@id": "ark:/87287/d74s3d",
+  "@id": "",
   "@type": [
     "schema:CreativeWork",
     "schema:PublicationIssue",
